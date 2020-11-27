@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/LeonidShv/todos/static/css/main.48a314fd.chunk.css",
-    "main.js": "/LeonidShv/todos/static/js/main.5985556b.chunk.js",
-    "main.js.map": "/LeonidShv/todos/static/js/main.5985556b.chunk.js.map",
-    "runtime-main.js": "/LeonidShv/todos/static/js/runtime-main.a0114063.js",
-    "runtime-main.js.map": "/LeonidShv/todos/static/js/runtime-main.a0114063.js.map",
-    "static/js/2.24d2b8e3.chunk.js": "/LeonidShv/todos/static/js/2.24d2b8e3.chunk.js",
-    "static/js/2.24d2b8e3.chunk.js.map": "/LeonidShv/todos/static/js/2.24d2b8e3.chunk.js.map",
-    "index.html": "/LeonidShv/todos/index.html",
-    "precache-manifest.a2a351523178c75032fc59d491ab713b.js": "/LeonidShv/todos/precache-manifest.a2a351523178c75032fc59d491ab713b.js",
-    "service-worker.js": "/LeonidShv/todos/service-worker.js",
-    "static/css/main.48a314fd.chunk.css.map": "/LeonidShv/todos/static/css/main.48a314fd.chunk.css.map",
-    "static/js/2.24d2b8e3.chunk.js.LICENSE.txt": "/LeonidShv/todos/static/js/2.24d2b8e3.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/LeonidShv/todos/static/media/check-mark.8822c7ce.svg"
+    "main.css": "./static/css/main.af28e15b.chunk.css",
+    "main.js": "./static/js/main.5985556b.chunk.js",
+    "main.js.map": "./static/js/main.5985556b.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.673723db.js",
+    "runtime-main.js.map": "./static/js/runtime-main.673723db.js.map",
+    "static/js/2.24d2b8e3.chunk.js": "./static/js/2.24d2b8e3.chunk.js",
+    "static/js/2.24d2b8e3.chunk.js.map": "./static/js/2.24d2b8e3.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.14d73fa1ee14b24b0e47bf4de6121361.js": "./precache-manifest.14d73fa1ee14b24b0e47bf4de6121361.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.af28e15b.chunk.css.map": "./static/css/main.af28e15b.chunk.css.map",
+    "static/js/2.24d2b8e3.chunk.js.LICENSE.txt": "./static/js/2.24d2b8e3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "./static/media/check-mark.8822c7ce.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a0114063.js",
+    "static/js/runtime-main.673723db.js",
     "static/js/2.24d2b8e3.chunk.js",
-    "static/css/main.48a314fd.chunk.css",
+    "static/css/main.af28e15b.chunk.css",
     "static/js/main.5985556b.chunk.js"
   ]
 }
